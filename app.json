@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "This is check weather app by GPS",
+    "githubUrl": "https://github.com/kimgeuntae/weather.git"
   }
 }
